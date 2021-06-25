@@ -1,0 +1,31 @@
+@font-face {
+    font-family: "PlayfairR";
+    // src: url("../fonts/mabry-regular-pro.ttf") format("truetype");
+    font-weight: 400;
+    font-style: normal;
+    src: url("../../fonts/Playfair\ Display/static/PlayfairDisplay-Regular.ttf") format("truetype");
+  }
+  @font-face {
+    font-family: "PlayfairB";
+    font-style: normal;
+    font-weight: 400;
+    src: url("../../fonts/Playfair\ Display/static/PlayfairDisplay-Black.ttf") format("truetype");
+  }
+  @font-face {
+    font-family: "Bouffant";
+    font-style: normal;
+    font-weight: 800;
+    src: url("../../fonts/Bouffant/Bouffant/bouffant.otf") format("opentype");
+  }
+  @font-face {
+    font-family: "PlayfairBold";
+    font-style: normal;
+    src: url("../../fonts/Playfair\ Display/static/PlayfairDisplay-Bold.ttf") format("truetype");
+    font-weight: 600;
+  }
+//   @font-face {
+//     font-family: "SFProDisplay-Regular";
+//     src: url("../fonts/SFProDisplay-Regular.ttf") format("truetype");
+//     font-weight: 400;
+//   }
+  
